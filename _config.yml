@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "JaeYoung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "코딩 잘하고 싶은 대학생이        아무거나 올리는 블로그"
+  bio              : "2021-12-31 start!"
   location         : "South korea"
   email            : "qqnmj123@naver.com"
   links:
@@ -112,7 +112,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://dudowalr.github.io"
     - label: "GitHub"
-      icon: "fas fa-fw fa-github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/dudowalr"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
