@@ -19,8 +19,8 @@ locale                   : "ko-KR"
 title                    : "dudowalr.blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "dudowalr"
+description              : ""
 url                      : "https://dudowalr.github.io"
 baseurl                  : #"https://dudowalr.github.io" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "JaeYoung"
   avatar           : "/assets/avatar.png"
-  bio              : "2021-12-31 start!"
+  bio              : "Studying information & communication engineering."
   location         : "South korea"
   email            : "qqnmj123@naver.com"
   links:
