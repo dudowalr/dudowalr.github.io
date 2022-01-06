@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "JaeYoung"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/avatar.png"
   bio              : "2021-12-31 start!"
   location         : "South korea"
   email            : "qqnmj123@naver.com"
